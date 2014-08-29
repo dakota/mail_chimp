@@ -1,0 +1,17 @@
+{
+	"name": "dakota/mail_chimp",
+	"type": "croogo-plugin",
+	"description": "Croogo Plugin - Create simple mail-chimp signup forms",
+	"homepage": "http://github.com/dakota/mail_chimp",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Walther Lalk"
+		}
+	],
+	"require": {
+		"php": ">=5.3.0",
+		"composer/installers": "*",
+		"mailchimp/mailchimp": ">=2.0.0"
+	}
+}
